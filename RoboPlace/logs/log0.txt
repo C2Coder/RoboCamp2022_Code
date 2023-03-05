@@ -1,0 +1,2 @@
+80037 paint 0 0 red
+80038 paint 0 0 white
